@@ -1,4 +1,5 @@
 # BCMRollView
+License MIT Pod version Carthage Compatible Platform info Build Status
 一个可滚动的数字控件
 
 ### 实现的功能
