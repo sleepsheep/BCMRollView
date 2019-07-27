@@ -1,5 +1,8 @@
 # BCMRollView
-License MIT Pod version Carthage Compatible Platform info Build Status
+==============
+![License MIT](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 一个可滚动的数字控件
 
 ### 实现的功能
