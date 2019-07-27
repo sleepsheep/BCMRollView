@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
                    DESC
                    
 
-  spec.homepage     = "https://github.com/sleepsheep/BCMRollView"
+  spec.homepage     = "https://github.com/sleepsheep/BCMRollView.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
