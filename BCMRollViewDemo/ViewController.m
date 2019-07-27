@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "BCMRollView/BCMRollView.h"
+#import "BCMRollView.h"
 
 @interface ViewController ()
 

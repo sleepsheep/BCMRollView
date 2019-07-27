@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  BCMRollView
+//  BCMRollViewDemo
 //
 //  Created by Kevin on 2019/7/27.
 //  Copyright © 2019 LY. All rights reserved.

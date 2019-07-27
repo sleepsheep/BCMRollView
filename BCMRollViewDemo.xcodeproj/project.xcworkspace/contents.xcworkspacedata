@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BCMRollView.xcodeproj">
+      location = "self:BCMRollViewDemo.xcodeproj">
    </FileRef>
 </Workspace>
