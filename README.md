@@ -15,7 +15,8 @@
 6、支持反向滚动 规则即最后一个数字滚动一圈，倒数第二个数字滚动两圈 以此类推
 7、所有数字的滚动时间都是一个固定的值 duration default 1.5秒
 ```
-
+![BCMRollView.gif](https://github.com/sleepsheep/BCMRollView/blob/master/BCMRollView.gif
+)
 ## Installation
 
 To use BCMRollView add the following to your Podfile
